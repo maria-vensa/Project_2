@@ -3,7 +3,8 @@
 Analyzing the relationship between head size and brain weight using data science techniques can uncover patterns and correlations that enhance our understanding of neurological development, allowing for more accurate predictive models and deeper insights into factors influencing brain physiology.
 
 ## Dataset: headbrain11.csv
-"headbrain11.csv"
+["headbrain11.csv"](https://github.com/marisa-web/Project_2/blob/main/headbrain11.csv)
+
 ## EDA on a Dataset and Linear Regression results
 import pandas as pd
 ![image](https://github.com/user-attachments/assets/4b32275d-cf4d-4343-937a-636f843a6adc)
