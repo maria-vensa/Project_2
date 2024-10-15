@@ -1,7 +1,7 @@
 # Project_2
-# Analysis of Head size and Brain Weight
+## Analysis of Head size and Brain Weight
 
-# Dataset: headbrain11.csv
+## Dataset: headbrain11.csv
 ## EDA on a Dataset and Linear Regression results
 import pandas as pd
 ![image](https://github.com/user-attachments/assets/4b32275d-cf4d-4343-937a-636f843a6adc)
