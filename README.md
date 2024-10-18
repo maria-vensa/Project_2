@@ -8,6 +8,7 @@ Analyzing the relationship between head size and brain weight using data science
 ## EDA on a Dataset and Linear Regression results
 import pandas as pd
 ![image](https://github.com/user-attachments/assets/4b32275d-cf4d-4343-937a-636f843a6adc)
+
 import statsmodels.formula.api as smf
 - **model = smf.ols(formula='Head_size ~ Brain_weight', data=df).fit()**
 - **predicted_head_size_series = model.predict(df["Brain_weight"])**
